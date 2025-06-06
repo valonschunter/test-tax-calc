@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "test-tax-calc",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "626ac542-1511-4832-904f-c8492f1031c9",
+      "database_name": "test-tax-calc2"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
